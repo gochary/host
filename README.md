@@ -1,4 +1,4 @@
-# Blog Title :link: https://gochary.github.io/host.github.io 
+# Blog Title :link: https://gochary.github.io/host 
 ### :page_facing_up: [0](https://gochary.github.io/host) 
 ### :speech_balloon: 0 
 ### :hibiscus: 0 
